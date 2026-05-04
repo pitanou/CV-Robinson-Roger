@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Prénom Nom",
-    "title": "Titre du Profil (ex: Développeur Fullstack)",
-    "email": "votre.email@exemple.com",
-    "linkedin": "https://www.linkedin.com/in/votre-profil/",
-    "location": "Ville, France",
-    "photo": "photo.png",
-    "bot_avatar": "bot-avatar.jpg",
-    "cv_pdf_name": "cv-template.pdf"
+    "name": "Robinson Roger",
+    "title": "Futur étudiant ESDES - Recherche Alternance Marketing",
+    "email": "robinson.roger1706@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/robinson-roger/",
+    "location": "Lyon, France",
+    "photo": "Photo CV filtre.png",
+    "bot_avatar": "Photo CV filtre.png",
+    "cv_pdf_name": "CV ROBINSON ROGER GENERIQUE.pdf"
   },
   "ai_persona": {
-    "bot_name": "Mon Assistant CV",
+    "bot_name": "L'Assistant de Robinson",
     "fun_fact_trigger": "anecdote",
-    "fun_fact_content": "Personnalisez cette anecdote dans identity.json !"
+    "fun_fact_content": "Mon projet Solitariius a remporté le prix de la faisabilité lors de la Nuit de l'Innovation à Impact Solidaire !"
   }
 }

@@ -1,18 +1,20 @@
-## PORTFOLIO
+## PORTFOLIO & RÉALISATIONS
 
-### Nom du Projet 1 - Type de Projet
-**[Lien vers le projet](https://votre-lien-ici.com)**
+### 🏆 Vainqueur Hackathon - Projet Solitariius
+**Fédération Française pour les liens sociaux (NIIS)**
 
-![Description de l'image](/photo.png)
-
-*   **Description** : Présentation concise du projet, son objectif et les résultats obtenus.
-*   **Technos** : Liste des outils, frameworks ou langages utilisés.
-*   **Rôle** : Votre contribution spécifique au projet.
+*   **Description** : Hackathon axé sur la lutte contre l'isolement social dans le cadre de la Nuit de l'Innovation à Impact Solidaire.
+*   **Points clés** : Vainqueur du prix de la faisabilité. Un beau défi alliant empathie, innovation et développement de solutions concrètes.
+*   **Rôle** : Cocréateur du projet Solitariius.
 
 ---
 
-### Nom du Projet 2 - Type de Projet
-**[Lien vers le projet](https://votre-lien-ici.com)**
+### 📱 Création de Contenu & Marketing d'Influence
+**Réseaux Sociaux**
 
-*   **Description** : Une autre réalisation marquante pour illustrer votre savoir-faire.
-*   **Points clés** : Défis techniques relevés ou méthodologie appliquée.
+*   **Description** : Développement de stratégies de contenu et animation de communautés. Expertise en création de formats longs (live Twitch, YouTube) et courts.
+*   **Points clés** :
+    *   Compte Twitter personnel rassemblant plus de **7 000 abonnés**.
+    *   Vidéos TikTok générant plus de **1 Million de vues** en collaboration avec différents créateurs.
+*   **Outils maîtrisés** : Premiere Pro, CapCut, Canva, Photoshop.
+*   **Intelligence Artificielle** : Prompt engineering, création d'assistants IA et aide à la rédaction.
